@@ -1,0 +1,24 @@
+{
+  "name": "serge-greets-you",
+  "version": "1.0.0",
+  "description": "Serge will greet you.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Serge044/serge-greets-you.git"
+  },
+  "keywords": [
+    "greeting",
+    "serge",
+    "hello"
+  ],
+  "author": "Serge044",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Serge044/serge-greets-you/issues"
+  },
+  "homepage": "https://github.com/Serge044/serge-greets-you#readme"
+}
